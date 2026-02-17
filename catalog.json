@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "email": "23f3001526@ds.study.iitm.ac.in",
+    "version": "76a72842"
+  },
+  "products": [
+    { "id": 1, "name": "Laptop Pro 15", "category": "electronics", "price": 125000.50, "stock": 5, "rating": 4.5 },
+    { "id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 1500.99, "stock": 25, "rating": 4.2 },
+    { "id": 3, "name": "Mechanical Keyboard", "category": "electronics", "price": 7500.00, "stock": 10, "rating": 4.6 },
+    { "id": 4, "name": "USB-C Charger", "category": "electronics", "price": 2000.00, "stock": 30, "rating": 4.1 },
+
+    { "id": 5, "name": "Fiction Novel A", "category": "books", "price": 499.99, "stock": 50, "rating": 4.3 },
+    { "id": 6, "name": "Science Textbook", "category": "books", "price": 2500.50, "stock": 20, "rating": 4.7 },
+    { "id": 7, "name": "History Book", "category": "books", "price": 1200.75, "stock": 15, "rating": 4.4 },
+
+    { "id": 8, "name": "T-Shirt", "category": "clothing", "price": 799.99, "stock": 40, "rating": 4.0 },
+    { "id": 9, "name": "Jeans", "category": "clothing", "price": 1999.00, "stock": 20, "rating": 4.2 },
+    { "id": 10, "name": "Jacket", "category": "clothing", "price": 3500.00, "stock": 10, "rating": 4.5 },
+
+    { "id": 11, "name": "Running Shoes", "category": "footwear", "price": 4500.00, "stock": 12, "rating": 4.6 },
+    { "id": 12, "name": "Sandals", "category": "footwear", "price": 1200.00, "stock": 25, "rating": 4.1 },
+
+    { "id": 13, "name": "Office Chair", "category": "furniture", "price": 8500.00, "stock": 8, "rating": 4.3 },
+    { "id": 14, "name": "Study Table", "category": "furniture", "price": 15000.00, "stock": 5, "rating": 4.4 },
+
+    { "id": 15, "name": "Blender", "category": "appliances", "price": 3200.00, "stock": 18, "rating": 4.2 },
+    { "id": 16, "name": "Microwave Oven", "category": "appliances", "price": 9500.00, "stock": 6, "rating": 4.5 },
+
+    { "id": 17, "name": "Backpack", "category": "accessories", "price": 1800.00, "stock": 22, "rating": 4.3 },
+    { "id": 18, "name": "Sunglasses", "category": "accessories", "price": 2200.00, "stock": 15, "rating": 4.1 },
+
+    { "id": 19, "name": "Smartphone X", "category": "electronics", "price": 70000.00, "stock": 7, "rating": 4.8 },
+    { "id": 20, "name": "Tablet Z", "category": "electronics", "price": 45000.00, "stock": 9, "rating": 4.6 },
+
+    { "id": 21, "name": "Notebook Pack", "category": "stationery", "price": 300.00, "stock": 100, "rating": 4.0 },
+    { "id": 22, "name": "Pen Set", "category": "stationery", "price": 150.00, "stock": 200, "rating": 3.9 }
+  ],
+  "aggregations": {
+    "books": {
+      "count": 3,
+      "inventoryValue": 102157.02
+    }
+  }
+}
