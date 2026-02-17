@@ -28,9 +28,25 @@
     { "id": "prod-76a72842-022", "name": "Premium Item 22", "category": "home", "price": 163.52, "stock": 100, "rating": 2.7 }
   ],
   "aggregations": {
-    "books": {
-      "count": 3,
-      "inventoryValue": 102157.02
-    }
+  "books": {
+    "count": 3,
+    "inventoryValue": 102157.02
+  },
+  "electronics": {
+    "count": 4,
+    "inventoryValue": 168622.98
+  },
+  "home": {
+    "count": 4,
+    "inventoryValue": 103898.12
+  },
+  "sports": {
+    "count": 7,
+    "inventoryValue": 274393.20
+  },
+  "clothing": {
+    "count": 4,
+    "inventoryValue": 147623.56
   }
+}
 }
