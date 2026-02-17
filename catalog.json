@@ -4,36 +4,28 @@
     "version": "76a72842"
   },
   "products": [
-    { "id": 1, "name": "Laptop Pro 15", "category": "electronics", "price": 125000.50, "stock": 5, "rating": 4.5 },
-    { "id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 1500.99, "stock": 25, "rating": 4.2 },
-    { "id": 3, "name": "Mechanical Keyboard", "category": "electronics", "price": 7500.00, "stock": 10, "rating": 4.6 },
-    { "id": 4, "name": "USB-C Charger", "category": "electronics", "price": 2000.00, "stock": 30, "rating": 4.1 },
-
-    { "id": 5, "name": "Fiction Novel A", "category": "books", "price": 499.99, "stock": 50, "rating": 4.3 },
-    { "id": 6, "name": "Science Textbook", "category": "books", "price": 2500.50, "stock": 20, "rating": 4.7 },
-    { "id": 7, "name": "History Book", "category": "books", "price": 1200.75, "stock": 15, "rating": 4.4 },
-
-    { "id": 8, "name": "T-Shirt", "category": "clothing", "price": 799.99, "stock": 40, "rating": 4.0 },
-    { "id": 9, "name": "Jeans", "category": "clothing", "price": 1999.00, "stock": 20, "rating": 4.2 },
-    { "id": 10, "name": "Jacket", "category": "clothing", "price": 3500.00, "stock": 10, "rating": 4.5 },
-
-    { "id": 11, "name": "Running Shoes", "category": "footwear", "price": 4500.00, "stock": 12, "rating": 4.6 },
-    { "id": 12, "name": "Sandals", "category": "footwear", "price": 1200.00, "stock": 25, "rating": 4.1 },
-
-    { "id": 13, "name": "Office Chair", "category": "furniture", "price": 8500.00, "stock": 8, "rating": 4.3 },
-    { "id": 14, "name": "Study Table", "category": "furniture", "price": 15000.00, "stock": 5, "rating": 4.4 },
-
-    { "id": 15, "name": "Blender", "category": "appliances", "price": 3200.00, "stock": 18, "rating": 4.2 },
-    { "id": 16, "name": "Microwave Oven", "category": "appliances", "price": 9500.00, "stock": 6, "rating": 4.5 },
-
-    { "id": 17, "name": "Backpack", "category": "accessories", "price": 1800.00, "stock": 22, "rating": 4.3 },
-    { "id": 18, "name": "Sunglasses", "category": "accessories", "price": 2200.00, "stock": 15, "rating": 4.1 },
-
-    { "id": 19, "name": "Smartphone X", "category": "electronics", "price": 70000.00, "stock": 7, "rating": 4.8 },
-    { "id": 20, "name": "Tablet Z", "category": "electronics", "price": 45000.00, "stock": 9, "rating": 4.6 },
-
-    { "id": 21, "name": "Notebook Pack", "category": "stationery", "price": 300.00, "stock": 100, "rating": 4.0 },
-    { "id": 22, "name": "Pen Set", "category": "stationery", "price": 150.00, "stock": 200, "rating": 3.9 }
+    { "id": "prod-76a72842-001", "name": "Premium Item 1", "category": "sports", "price": 202.44, "stock": 168, "rating": 4.7 },
+    { "id": "prod-76a72842-002", "name": "Premium Item 2", "category": "home", "price": 337.31, "stock": 110, "rating": 4.9 },
+    { "id": "prod-76a72842-003", "name": "Elite Item 3", "category": "electronics", "price": 245.37, "stock": 198, "rating": 2.4 },
+    { "id": "prod-76a72842-004", "name": "Premium Item 4", "category": "electronics", "price": 234.6, "stock": 177, "rating": 2.1 },
+    { "id": "prod-76a72842-005", "name": "Basic Item 5", "category": "home", "price": 419.86, "stock": 97, "rating": 3.3 },
+    { "id": "prod-76a72842-006", "name": "Standard Item 6", "category": "books", "price": 65.35, "stock": 40, "rating": 1.1 },
+    { "id": "prod-76a72842-007", "name": "Elite Item 7", "category": "sports", "price": 38, "stock": 34, "rating": 3.2 },
+    { "id": "prod-76a72842-008", "name": "Pro Item 8", "category": "books", "price": 453.58, "stock": 164, "rating": 4.4 },
+    { "id": "prod-76a72842-009", "name": "Basic Item 9", "category": "home", "price": 10.44, "stock": 26, "rating": 4.5 },
+    { "id": "prod-76a72842-010", "name": "Pro Item 10", "category": "electronics", "price": 39.31, "stock": 9, "rating": 3.4 },
+    { "id": "prod-76a72842-011", "name": "Premium Item 11", "category": "clothing", "price": 475.39, "stock": 195, "rating": 3.5 },
+    { "id": "prod-76a72842-012", "name": "Elite Item 12", "category": "clothing", "price": 224.02, "stock": 37, "rating": 4.9 },
+    { "id": "prod-76a72842-013", "name": "Basic Item 13", "category": "electronics", "price": 451.43, "stock": 173, "rating": 1.5 },
+    { "id": "prod-76a72842-014", "name": "Basic Item 14", "category": "sports", "price": 249.53, "stock": 158, "rating": 3.6 },
+    { "id": "prod-76a72842-015", "name": "Elite Item 15", "category": "clothing", "price": 120.29, "stock": 159, "rating": 4.8 },
+    { "id": "prod-76a72842-016", "name": "Premium Item 16", "category": "sports", "price": 228.74, "stock": 133, "rating": 2.4 },
+    { "id": "prod-76a72842-017", "name": "Pro Item 17", "category": "sports", "price": 368.73, "stock": 190, "rating": 4 },
+    { "id": "prod-76a72842-018", "name": "Elite Item 18", "category": "clothing", "price": 355.92, "stock": 40, "rating": 1.5 },
+    { "id": "prod-76a72842-019", "name": "Premium Item 19", "category": "sports", "price": 459.8, "stock": 121, "rating": 2.1 },
+    { "id": "prod-76a72842-020", "name": "Premium Item 20", "category": "books", "price": 326.7, "stock": 77, "rating": 4.9 },
+    { "id": "prod-76a72842-021", "name": "Basic Item 21", "category": "sports", "price": 26.16, "stock": 86, "rating": 4.3 },
+    { "id": "prod-76a72842-022", "name": "Premium Item 22", "category": "home", "price": 163.52, "stock": 100, "rating": 2.7 }
   ],
   "aggregations": {
     "books": {
